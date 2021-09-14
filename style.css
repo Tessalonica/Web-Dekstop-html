@@ -1,0 +1,22 @@
+body{
+	margin-bottom: 0px;
+	padding: 0px;
+	background: url(1.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: optima;
+	height: 100vh;
+}
+div{
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+input{
+    width: 500px;
+    text-align: center;
+}
+h4{
+	text-align: center;
+}s
